@@ -71,7 +71,7 @@ export class Utils {
      *
      * Mention a user with ease.
      * @param userId The ID of the user to mention.
-     *  * @example```ts
+     * @example```ts
      * mention('928616268376965120') // <@928616268376965120>
      * ```
      */
